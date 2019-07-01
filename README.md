@@ -1,2 +1,2 @@
 # BusBooking
-Bus Booking
+Building a website for selling bus tickets.
